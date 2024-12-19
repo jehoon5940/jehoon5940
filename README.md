@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 상명대학교(서울캠퍼스) 지능iot융합전공 4학년 배제훈입니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 기술영업(technology sales job)과 서브 개발자를 희망하는 대학생입니다 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 기술영업(technology sales job)과 프로그래밍을 둘 다 놓치고 싶지 않는 희망고문... </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
