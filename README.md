@@ -2,7 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:5b497e&height=180&text=제훈's%20Github&animation=twinkling&fontColor=eff0f1&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 상명대학교(서울캠퍼스) 지능iot융합전공 4학년 배제훈입니다 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 상명대학교(서울캠퍼스) 지능iot융합전공 4학년 배제훈입니다 
+    현: 웹케시 임베디드영업부 배제훈 사원</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 기술영업(technology sales job)과 프로그래밍을 둘 다 놓치고 싶지 않는 희망고문... </div> 
     </div>
     <div style="text-align: left;">
