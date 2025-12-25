@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://github.com/jehoon5940/jehoon5940/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=3050cf&height=180&text=JEHOON%20BAE's%20Github&animation=&fontColor=28c3a9&fontSize=60" />
+    </div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
