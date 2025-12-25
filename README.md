@@ -66,6 +66,7 @@
   <a href="baeho4727@gmail.com">
     <img
       src="https://img.shields.io/badge/baeho4727@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-      <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjehoon5940?color=purple&label=hits&size=small&base_count=1100" alt="hits" /></a>
   </a>
 </div>
+
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjehoon5940?color=purple&label=hits&size=small&base_count=1100" alt="hits" /></a>
