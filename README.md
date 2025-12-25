@@ -69,4 +69,10 @@
   </a>
 </div>
 
+<br>
+
+<h3 align="center">📚 My stats 📚</h3>
+<div align="center">
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjehoon5940?color=purple&label=hits&size=small&base_count=1100" alt="hits" /></a>
+
+</div>
