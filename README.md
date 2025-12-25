@@ -68,3 +68,5 @@
       src="https://img.shields.io/badge/baeho4727@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjehoon5940?color=purple&label=hits&size=small&base_count=1100)](https://myhits.vercel.app)
