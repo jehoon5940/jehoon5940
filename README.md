@@ -4,7 +4,7 @@
     
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 26년 오퍼(offer) or 스카웃(scout) 제의 기업:  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> (주)유니퀘스트, (주)다올티에스, (주)데이타솔루션 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> (주)유니퀘스트, (주)다올티에스, (주)데이타솔루션 (주)유니온바이오메트릭스 </div> 
     </div>   
 </div>
     
