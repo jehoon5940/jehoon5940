@@ -79,7 +79,7 @@
 
 <br>
 
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jehoon5940&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="stats" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jehoon5940&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jehoon5940" width="42%" height="100%"/>
 </div>
 <div>
