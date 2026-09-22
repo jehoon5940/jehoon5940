@@ -74,6 +74,7 @@
 <h3 align="left">📚 My stats 📚</h3>
 <div align="left">
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjehoon5940?color=purple&label=hits&size=small&base_count=1100" alt="hits" />
+<a href="https://githubstat-badge.vercel.app/api/visits?user=torvalds&theme=purplealt="hits" />
 
 </div>
 
