@@ -2,8 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0932ae,100:16f4f8&height=120&text=Deep%20and%20detail%20for%20My%20Opinion&animation=&fontColor=942bc5&fontSize=50" />
     </div>
     
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #942bc5;"> 26년 오퍼(offer) or 스카웃(scout) 제의 기업:  </h2>  
+<div align="left" style="margin-top: 20px;">
+  <h2 style="border-bottom: 1px solid #d8dee4; padding-bottom: 8px;">
+    <font color="#942bc5">26년 오퍼(offer) or 스카웃(scout) 제의 기업</font>
+  </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #942bc5;"> (주)유니퀘스트, (주)다올티에스, (주)데이타솔루션, (주)유니온바이오메트릭스 
     
 </div> 
