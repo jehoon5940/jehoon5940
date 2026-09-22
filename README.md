@@ -74,6 +74,7 @@
 <h3 align="left">📚 My stats 📚</h3>
 <div align="left">
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjehoon5940?color=purple&label=hits&size=small&base_count=1100" alt="hits" /></a>
+<img src="https://jehoon5940-vercel-domain.vercel.app/api?username=jehoon5940&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green&hide=stars" />
 
 </div>
 
