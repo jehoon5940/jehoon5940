@@ -80,7 +80,7 @@
 <br>
 
   <img alt="stats" align="left" src="https://githubstat-badge.vercel.app/api/stats?username=jehoon5940&theme=purple" width = "49%" height="130%" />  
-  <img alt="algorithms" src="https://githubstat-badge.vercel.app/api/repos?user=torvalds&theme=purple&days=10" width="70%" height="100%"/>
+  <img alt="algorithms" src="https://githubstat-badge.vercel.app/api/repos?user=torvalds&theme=purple&days=10" width="50%" height="100%"/>
 </div>
 <div>
   <img height=200 align="left"src="https://githubstat-badge.vercel.app/api/rank?user=torvalds&theme=purple"/>
