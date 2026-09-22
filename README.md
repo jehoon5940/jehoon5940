@@ -83,5 +83,5 @@
   <img alt="algorithms" src="https://githubstat-badge.vercel.app/api/repos?user=torvalds&theme=purple&days=10" width="47%" height="100%"/>
 </div>
 <div>
-  <img height=200 align="left"src="https://githubstat-badge.vercel.app/api/rank?user=torvalds&theme=purple"/>
+  <img height=250 align="left"src="https://githubstat-badge.vercel.app/api/rank?user=torvalds&theme=purple"/>
 </div>
