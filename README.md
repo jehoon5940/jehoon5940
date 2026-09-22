@@ -83,5 +83,5 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jehoon5940" width="42%" height="100%"/>
 </div>
 <div>
-  <img height=200 align="left"src="https://githubstat-badge.vercel.app/api/rank?user=jehoon5940&theme=purple"/>
+  <img height=200 align="left"src="https://githubstat-badge.vercel.app/api/rank?user=torvalds&theme=purple"/>
 </div>
